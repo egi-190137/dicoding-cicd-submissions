@@ -5,3 +5,9 @@
 [submodule "1-build-ci-pipeline-with-jenkins/simple-python-pyinstaller-app"]
 	path = 1-build-ci-pipeline-with-jenkins/simple-python-pyinstaller-app
 	url = https://github.com/egi-190137/simple-python-pyinstaller-app.git
+[submodule "2-build-cicd-pipeline-with-jenkins/react-app"]
+	path = 2-build-cicd-pipeline-with-jenkins/react-app
+	url = https://github.com/egi-190137/a428-cicd-labs.git
+[submodule "2-build-cicd-pipeline-with-jenkins/simple-python-pyinstaller-app"]
+	path = 2-build-cicd-pipeline-with-jenkins/simple-python-pyinstaller-app
+	url = https://github.com/egi-190137/simple-python-pyinstaller-app
