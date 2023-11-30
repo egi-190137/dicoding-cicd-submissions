@@ -1,3 +1,4 @@
 [submodule "1-build-ci-pipeline-with-jenkins/react-app"]
 	path = 1-build-ci-pipeline-with-jenkins/react-app
 	url = https://github.com/egi-190137/a428-cicd-labs.git
+	branch = react-app
